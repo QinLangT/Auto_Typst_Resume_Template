@@ -3,7 +3,7 @@
 #show: template;
 
 #init(
-    name: "张三",
+    name: "啊啊啊",
     // 插入图片功能尚未支持
     // pic_path: "/img/avatar.jpg",
     pic_path : "",
