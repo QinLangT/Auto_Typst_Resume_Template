@@ -128,6 +128,6 @@
   "外语能力",
   [CET-6 488分]
 )
-#resume_section([备注])
+#resume_section([备注]
 无
 )
